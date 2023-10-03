@@ -1,0 +1,215 @@
+{
+    "personalDetails": {
+        "wantedJobTitle": "Frontend Engineer",
+        "photo": "https://media.licdn.com/dms/image/D4D03AQFVkPFRCnYoPg/profile-displayphoto-shrink_800_800/0/1691586375696?e=1701907200&v=beta&t=5VkZuVrAn734RMEOCjBPqHEK5ahNVOvP47xyBNngA8s",
+        "firstName": "Ahmed",
+        "lastName": "Gaafer",
+        "email": "ahmeds.gaafer@gmail.com",
+        "phone": "(+20)1007621919",
+        "country": "Egypt",
+        "city": "Cairo"
+    },
+    "summary": "Experienced Web Developer adept in all stages of advanced web development. Equipped with a diverse and promising skill-set. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.",
+    "employmentHistory": [
+        {
+            "employer": "penta-b",
+            "employerSummary": "Penta-b is a leading GIS company throughout the Middle East and Africa that provides high-quality products, professional services & solutions to meet the diverse needs of public & private sectors.",
+            "periods": [
+                {
+                    "jobTitle": "Senior GIS Frontend engineer",
+                    "location": {
+                        "country": "Egypt",
+                        "city": "Cairo"
+                    },
+                    "date": {
+                        "isPresent": true,
+                        "start": {
+                            "month": "Sep",
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": "",
+                            "year": null
+                        }
+                    },
+                    "description": "- Assisting in the design of systems and plugins.\n- Onboarding newcomers and interns\n- Reviewing Junior member's code\n- Created and maintained new plugins for the base map application.\n- Refactored and fixed old modules.\n- Integrated with backend services and APIs\n- Integration with GIS APIs and 3rd party providers"
+                },
+                {
+                    "jobTitle": "Mid level GIS Frontend engineer",
+                    "location": {
+                        "country": "Egypt",
+                        "city": "Cairo"
+                    },
+                    "date": {
+                        "isPresent": false,
+                        "start": {
+                            "month": "Jun",
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": "Sep",
+                            "year": 2023
+                        }
+                    },
+                    "description": "- Created and maintained new plugins for the base map application.\n- Refactored and fixed old modules.\n- Integrated with backend services and APIs\n- Integration with GIS APIs and 3rd party providers"
+                },
+                {
+                    "jobTitle": "GIS Frontend engineer",
+                    "location": {
+                        "country": "Egypt",
+                        "city": "Cairo"
+                    },
+                    "date": {
+                        "isPresent": false,
+                        "start": {
+                            "month": "Sep",
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": "Jun",
+                            "year": 2022
+                        }
+                    },
+                    "description": "- Refactored and fixed old modules.\n- Integrated with back-end services and APIs\n- Implemented Typescript plugin generator into the existing code generator."
+                }
+            ]
+        },
+        {
+            "employer": "LTSM Media",
+            "employerSummary": "LTSM Media is a call center company.",
+            "periods": [
+                {
+                    "jobTitle": "Frontend engineer",
+                    "location": {
+                        "country": "Egypt",
+                        "city": "Cairo"
+                    },
+                    "date": {
+                        "isPresent": false,
+                        "start": {
+                            "month": "Dec",
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": "Feb",
+                            "year": 2018
+                        }
+                    },
+                    "description": "Created forms, web pages and tools to help the agents process the collected data"
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Ain Shams University",
+            "description": "",
+            "location": {
+                "country": "Egypt",
+                "city": "Cairo"
+            },
+            "degree": {
+                "type": "BSc.",
+                "name": "Computer and information science"
+            },
+            "score": {
+                "given": 3.19,
+                "degreeRange": [
+                    1,
+                    4
+                ],
+                "highestValue": 4
+            },
+            "date": {
+                "isPresent": false,
+                "start": {
+                    "month": "Jun",
+                    "year": 2016
+                },
+                "end": {
+                    "month": "May",
+                    "year": 2020
+                }
+            }
+        }
+    ],
+    "social": [
+        {
+            "label": "dev.to",
+            "link": "https://dev.to/ahmedgaafer",
+            "icon": "fa-brands fa-dev",
+            "iconLink": true
+        },
+        {
+            "label": "Github",
+            "link": "https://github.com/ahmedgaafer",
+            "icon": "fa-brands fa-github",
+            "iconLink": true
+        },
+        {
+            "label": "Linkedin",
+            "link": "https://www.linkedin.com/in/ahmed-s-gaafer/",
+            "icon": "fa-brands fa-linkedin",
+            "iconLink": true
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript",
+            "experienceLevel": 0.8
+        },
+        {
+            "name": "React",
+            "experienceLevel": 0.8
+        },
+        {
+            "name": "HTML & CSS",
+            "experienceLevel": 0.9
+        },
+        {
+            "name": "TypeScript",
+            "experienceLevel": 0.6
+        },
+        {
+            "name": "Redux",
+            "experienceLevel": 0.8
+        }
+    ],
+    "languages": [
+        {
+            "name": "Arabic",
+            "proficiency": "native"
+        },
+        {
+            "name": "English",
+            "proficiency": "C1"
+        },
+        {
+            "name": "German",
+            "proficiency": "A2"
+        }
+    ],
+    "projects": [
+        {
+            "name": "TS Data structures npm package",
+            "description": "A lightweight npm package for JS/TS Data Structures",
+            "link": "https://www.npmjs.com/package/@ahmeds.gaafer/ts-data-structures",
+            "techStack": [
+                "fa-brands fa-npm",
+                "./assets/typescript.svg"
+            ]
+        }
+    ],
+    "extraSections": [
+        {
+            "title": "Achievements",
+            "isList": true,
+            "children": [
+                {
+                    "text": "2nd place in Ain shams pattern recognition project diagnosing heart diseases.",
+                    "link": "https://www.kaggle.com/c/FCIS-BIO-1/leaderboard"
+                }
+            ]
+        }
+    ]
+}

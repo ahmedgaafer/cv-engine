@@ -1,0 +1,32 @@
+{
+  "name": "cv-engine",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A package to create CVs using vairous custom made templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "generate": "node index.js -src=basic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedgaafer/cv-engine.git"
+  },
+  "keywords": [
+    "cv",
+    "engine",
+    "template-engine"
+  ],
+  "author": "AhmedS.Gaafer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedgaafer/cv-engine/issues"
+  },
+  "homepage": "https://github.com/ahmedgaafer/cv-engine#readme",
+  "dependencies": {
+    "@react-pdf/renderer": "^3.1.12",
+    "fs": "^0.0.1-security",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
